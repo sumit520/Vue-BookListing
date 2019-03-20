@@ -14,9 +14,9 @@
             return{
                 title: 'All Books',
                 books: [
-                    {title:'Book 1', author:'Sumit'},
-                    {title:'Book 2', author:'John'},
-                    {title:'Book 3', author:'Xyz'}
+                    {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+                    {title: 'American Gods', author: 'Neil Gaiman'},
+                    {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
                 ]
             }
         }
